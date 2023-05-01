@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi hi!
+I'm Dexson Christ, or more known as kris
+
+## Things about me
+- Been getting into web development
+- I make games as well since I was 12 (Around 2017)
+- I finished SPM this year, hopefully can get into uni when the results came out
 
 <!--
 **againts-odds/againts-odds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
